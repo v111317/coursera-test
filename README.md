@@ -1,2 +1,2 @@
 # coursera-test
-coursera test repo
+Repository with branch 'gh-pages' created to test hosting a HTML page on coursera.
