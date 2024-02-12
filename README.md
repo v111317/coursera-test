@@ -1,2 +1,2 @@
 # coursera-test
-coursera test repo
+Contains main and gh-pages branches to test hosting on coursera.
